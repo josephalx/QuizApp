@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--    Activated when true-->
+    <item android:drawable="@drawable/option_correct" app:state_correct="true" />
+
+    <!--    Activated when false-->
+    <item android:drawable="@drawable/option_wrong" app:state_select="true" app:state_wrong="true" />
+
+    <item android:drawable="@drawable/option_select" app:state_select="true" />
+
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/purple_200" />
+            <corners android:radius="25sp" />
+        </shape>
+    </item>
+</selector>

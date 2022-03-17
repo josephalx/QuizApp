@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:context=".QuizQuestion"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    <com.example.quizapp.OptionView
+        android:id="@+id/op1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:padding="15dp"
+        android:textSize="18sp"
+        android:layout_marginTop="15sp"
+        android:background="@drawable/option_background"
+        tools:ignore="OnClick,UsingOnClickInXml" />
+    <com.example.quizapp.OptionView
+        android:id="@+id/op2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:padding="15dp"
+        android:textSize="18sp"
+        android:layout_marginTop="15sp"
+        android:background="@drawable/option_background"
+        tools:ignore="UsingOnClickInXml" />
+    <com.example.quizapp.OptionView
+        android:id="@+id/op3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:padding="15dp"
+        android:textSize="18sp"
+        android:layout_marginTop="15sp"
+        android:background="@drawable/option_background"
+        tools:ignore="UsingOnClickInXml" />
+    <com.example.quizapp.OptionView
+        android:id="@+id/op4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:padding="15dp"
+        android:textSize="18sp"
+        android:layout_marginTop="15sp"
+        android:background="@drawable/option_background"
+        tools:ignore="OnClick,UsingOnClickInXml" />
+
+    </LinearLayout>
+</merge>

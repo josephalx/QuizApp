@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Option">
+        <attr name="correct" format="boolean" />
+        <attr name="wrong" format="boolean" />
+        <attr name="select" format="boolean" />
+        <attr name="state_correct" format="boolean" />
+        <attr name="state_wrong" format="boolean" />
+        <attr name="state_select" format="boolean" />
+    </declare-styleable>
+</resources>

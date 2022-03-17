@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="todo">TODO</string>
+    <string name="Title">Quiz App</string>
+    <string name="welcome">Welcome</string>
+    <string name="sub_header">Please Enter Your Name</string>
+    <string name="placeholder">Name</string>
+    <string name="Button_Text">Start</string>
+    <string name="question">Question: What is my Name in English Language. Help Me?</string>
+    <string name="simple_person_image">Simple Person Image</string>
+    <string name="options">Option 1</string>
+    <string name="submit">Submit</string>
+    <string name="result_header">Your Score is</string>
+    <string name="trophy">Trophy</string>
+    <string name="play_again">Play Again</string>
+    <string name="congrats_username">Congrats, username</string>
+</resources>
