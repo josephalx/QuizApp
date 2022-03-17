@@ -11,6 +11,7 @@
         <entry key="..\:/AndroidProjects/QuizApp/app/src/main/res/drawable/option_correct.xml" value="0.1" />
         <entry key="..\:/AndroidProjects/QuizApp/app/src/main/res/drawable/option_select_background.xml" value="0.1" />
         <entry key="..\:/AndroidProjects/QuizApp/app/src/main/res/drawable/option_wrong.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/QuizApp/app/src/main/res/drawable/splashscreen.xml" value="0.17" />
         <entry key="..\:/AndroidProjects/QuizApp/app/src/main/res/layout/activity_main.xml" value="0.12092391304347826" />
         <entry key="..\:/AndroidProjects/QuizApp/app/src/main/res/layout/activity_quiz_question.xml" value="0.2" />
         <entry key="..\:/AndroidProjects/QuizApp/app/src/main/res/layout/activity_result.xml" value="0.1" />
@@ -18,6 +19,8 @@
         <entry key="..\:/AndroidProjects/QuizApp/app/src/main/res/layout/layout.xml" value="0.1" />
         <entry key="..\:/AndroidProjects/QuizApp/app/src/main/res/layout/option.xml" value="0.2" />
         <entry key="..\:/AndroidProjects/QuizApp/app/src/main/res/layout/option_layout.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/QuizApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1025" />
+        <entry key="..\:/AndroidProjects/QuizApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1025" />
       </map>
     </option>
   </component>

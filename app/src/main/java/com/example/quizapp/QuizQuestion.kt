@@ -30,7 +30,7 @@ class QuizQuestion : AppCompatActivity() {
 
             }
         }
-        
+
     }
 
     private fun question() {

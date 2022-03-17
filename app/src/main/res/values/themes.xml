@@ -28,4 +28,10 @@
         <!-- Customize your theme here. -->
         <item name="android:textColor">?attr/colorOnPrimary</item>
     </style>
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/black</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_quiz__1_</item>
+        <item name="windowSplashScreenIconBackgroundColor">@color/black</item>
+        <item name="postSplashScreenTheme">@style/Theme.QuizApp</item>
+    </style>
 </resources>
