@@ -15,7 +15,8 @@
     </style>
     <style name="Theme.App.Starting" parent="Theme.SplashScreen">
         <item name="windowSplashScreenBackground">@color/black</item>
-        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_quiz__1_</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_quiz</item>
+        <item name="windowSplashScreenIconBackgroundColor">@color/black</item>
         <item name="postSplashScreenTheme">@style/QuizTheme</item>
     </style>
 </resources>
